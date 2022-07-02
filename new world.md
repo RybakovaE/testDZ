@@ -20,6 +20,20 @@
 
 ## Вставим изображение
 
-![тут будет фото пёсика](https://porodysobak.com/belgiyskaya-ovcharka-malinua.html)
+![тут будет фото пёсика](https://porodysobak.com/wp-content/uploads/2019/12/belgian-malinois_01_lg.jpg)
+
+## Вставим ссылочку на сайт про малинуа
+
+[Посмотрите, они классные](https://porodysobak.com/belgiyskaya-ovcharka-malinua.html)
 
 
+# Таблица
+
+  № | Товар | Цена | Кол-во
+  -----|-------|------|--------
+  1 | Молоко | 100 рублей | 5 шт.
+  2 | Сметана | 50 рублей | 2 шт.
+  3 | Хлеб | 40 рублей | 8 шт.
+
+  
+  
